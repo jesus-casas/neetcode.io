@@ -1,0 +1,18 @@
+2025-08-21
+
+[Leetcode Link](https://leetcode.com/problems/reverse-words-in-a-string/?envType=study-plan-v2&envId=leetcode-75)
+
+Tags: [[Array & String]]
+
+TC: O(n)
+
+## Code Solution: 
+### Python solution using .join(), .split(), and reversed()
+```python
+class Solution:
+	def reverseWords(self, s: str) -> str:
+		return " ".join(reversed(s.split()))
+```
+
+## Notes:
+- 
