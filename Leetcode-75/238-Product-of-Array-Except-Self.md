@@ -1,6 +1,6 @@
 2025-08-25
 
-[Leetcode Link]()
+[Leetcode Link](https://leetcode.com/problems/product-of-array-except-self/?envType=study-plan-v2&envId=leetcode-75)
 
 Tags: [[Array & String]]
 
@@ -22,6 +22,7 @@ class Solution:
         for i in range(n-1,-1,-1):
             ans[i] *= postfix_product
             postfix_product *= nums[i]
+        # Dry run
         # 6 *= 1 = 1
         # 2 *= 4 = 8
         # 1 *= 12 = 12
