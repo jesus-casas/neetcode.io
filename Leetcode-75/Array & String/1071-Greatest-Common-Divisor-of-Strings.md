@@ -4,6 +4,10 @@
 
 Tags: [[Array & String]] - [[gcd]]
 
+TC: O(n + m) string comparison
+
+SC: O(n + m) 
+
 ## Code Solution: 
 
 ```python
