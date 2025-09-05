@@ -20,6 +20,3 @@ class Solution:
 ```
 
 ## Notes:
-- check if str1 + str2 is the same as the inverse if this is true then that means there is a gcd between str1 and str2 
-- so if the case the comparison is not the same we return empty string meaning there is no gcd between our strings
-- Finally return str1 from index 0 to the gcd() function of str1 or str2 
