@@ -19,5 +19,18 @@ class Solution:
         return ans
 ```
 
+## Simpler solution
+```python
+class Solution:
+    def kidsWithCandies(self, candies: List[int], extraCandies: int) -> List[bool]:
+        greatest_candie = max(candies)
+
+        result = []
+
+        for candie in candies:
+            result.append(candie + extraCandies >= greatest_candie)
+        return result
+```
+
 ## Notes:
 - 
