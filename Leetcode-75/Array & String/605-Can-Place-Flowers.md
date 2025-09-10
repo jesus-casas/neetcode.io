@@ -22,7 +22,10 @@ class Solution:
         return n <= 0
 ```
 
-## O(
+## O(1) Solution:
+```python
+
+```
 
 ## Notes:
 - 
