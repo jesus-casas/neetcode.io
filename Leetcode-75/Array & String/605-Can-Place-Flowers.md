@@ -5,7 +5,10 @@
 Tags: [[Array & String]]
 
 TC: O(n) from neetcode
-## Code Solution: 
+
+SC: O(n)
+
+## Code Solution O(n): 
 
 ```python
 class Solution:
@@ -18,6 +21,8 @@ class Solution:
                 n -= 1
         return n <= 0
 ```
+
+## O(
 
 ## Notes:
 - 
