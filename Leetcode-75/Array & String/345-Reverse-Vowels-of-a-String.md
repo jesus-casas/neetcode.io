@@ -6,6 +6,8 @@ Tags: [[Array & String]]
 
 TC: O(n)
 
+SC: O(n)
+
 ## Code Solution: 
 
 ```python
