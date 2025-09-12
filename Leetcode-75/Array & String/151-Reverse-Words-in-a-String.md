@@ -14,7 +14,10 @@ class Solution:
 		return " ".join(reversed(s.split()))
 ```
 
+
 ## ALT Solution:
+
+[::-1] creates a new list in reverse order so its better to use reversed() in big s cases
 ```python
 class Solution:
     def reverseWords(self, s: str) -> str:
