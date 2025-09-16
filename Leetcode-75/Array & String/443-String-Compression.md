@@ -5,6 +5,9 @@
 Tags: [[Array & String]] - [[Look Back]] - [[Dry Run]]
 
 TC: O(n)
+
+SC: O(1)
+
 ## Code Solution: 
 
 ```python
