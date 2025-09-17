@@ -2,7 +2,7 @@
 
 [Leetcode Link](https://leetcode.com/problems/string-compression/description/?envType=study-plan-v2&envId=leetcode-75)
 
-Tags: [[Array & String]] - [[Look Back]] - [[Dry Run]]
+Tags: [[Array & String]]
 
 TC: O(n)
 
