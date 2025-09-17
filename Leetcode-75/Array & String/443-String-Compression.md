@@ -32,5 +32,30 @@ class Solution:
     return ans
 ```
 
+## Second Solution
+```python
+```python
+class Solution:
+  def compress(self, chars: List[str]) -> int:
+    size = len(chars)
+    ans = 0
+    i = 0
+
+    while i < size:
+      letter = chars[i]
+      count = 0
+      while i < size and chars[i] == letter:
+        count += 1
+        i += 1
+      chars[ans] = letter
+      ans += 1
+      if count > 1:
+        for c in str(count):
+          chars[ans] = c
+          ans += 1
+
+    return ans
+```
+
 ## Notes:
 - 
