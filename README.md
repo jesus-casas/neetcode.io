@@ -5,7 +5,7 @@ These are the solutions that I found to be more intuitive and should have at lea
 ## Follow along by using my template.md file
 
 ### Example Problem:
-334-Increasing-Triplet-Subsequence.md
+334-Increasing-Triplet-Subsequence
 
 2025-08-26
 
