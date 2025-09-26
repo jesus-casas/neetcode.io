@@ -17,10 +17,11 @@ class Solution:
         l = 0
         for r in range(len(nums)):
             if nums[r]:
-                nums[l], nums[r] = nums[r], nums[l]
+                nums[l], nums[r] = nums[r], nums[l] #swap in python
                 l += 1
         return nums
 ```
 
 ## Notes:
-- 
+- 1 is truthy
+- 0 is falsy
