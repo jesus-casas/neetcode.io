@@ -5,7 +5,9 @@
 
 Tags: [[Two Pointers]]
 
-TC: 
+TC: O(n)
+
+SC: O(1)
 
 ## Code Solution: 
 
