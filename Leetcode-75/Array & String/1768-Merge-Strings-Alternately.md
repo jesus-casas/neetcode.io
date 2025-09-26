@@ -6,7 +6,7 @@ Tags: [[Array & String]]
 
 TC: O(M + N)
 
-SC: O(1) or O(M+N)
+SC: O(M + N)
 
 ## Code Solution: 
 
