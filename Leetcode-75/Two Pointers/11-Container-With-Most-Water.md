@@ -4,7 +4,9 @@
 
 Tags: [[Two Pointer]]
 
-TC: 
+TC: O(n)
+
+SC: O(1)
 ## Code Solution: 
 
 ```python
