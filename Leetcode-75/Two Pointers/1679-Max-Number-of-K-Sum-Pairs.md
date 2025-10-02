@@ -18,11 +18,11 @@ class Solution:
         for i in range(len(nums)):
             res = k - nums[i]
             if res in hashmap:
-                count+=1
+                count += 1
                 if hashmap[res] == 1:
                     hashmap.pop(res)
                 else:
-                    hashmap[nums[i]] -= 1
+                    hashmap[res] -= 1
             else:
                 hashmap[nums[i]] = hashmap.get(nums[i], 0) + 1
         return count
