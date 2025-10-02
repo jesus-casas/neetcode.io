@@ -2,7 +2,7 @@
 
 [Leetcode Link](https://leetcode.com/problems/max-number-of-k-sum-pairs/description/?envType=study-plan-v2&envId=leetcode-75)
 
-Tags: [[Two Pointers]]
+Tags: [[Two Pointers]] - [[Look Back]]
 
 TC: 
 
