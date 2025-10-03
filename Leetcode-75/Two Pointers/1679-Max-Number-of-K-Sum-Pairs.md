@@ -4,9 +4,9 @@
 
 Tags: [[Two Pointers]] - [[Look Back]]
 
-TC: 
+TC: O(N)
 
-SC: 
+SC: O(N)
 
 ## O(N): Solution:
 ```python
