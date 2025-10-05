@@ -2,7 +2,7 @@
 
 [Leetcode Link](https://leetcode.com/problems/product-of-array-except-self/?envType=study-plan-v2&envId=leetcode-75)
 
-Tags: [[Array & String]]
+Tags: [[Array & String]] - [[Look Back]]
 
 TC: O(n)
 
