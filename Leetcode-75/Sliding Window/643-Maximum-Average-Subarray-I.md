@@ -17,10 +17,10 @@ class Solution:
         currSum = maxSum = sum(nums[:k])
 
         for i in range(k,len(nums)):
-
+            # 2 += 50 - 1
             currSum += nums[i] - nums[i - k]
 
-            maxSum = max(maxSum, currSum)
+            maxSum = max(maxSum, currSum) # max (2,51)
 
         return maxSum / k      
 ```
