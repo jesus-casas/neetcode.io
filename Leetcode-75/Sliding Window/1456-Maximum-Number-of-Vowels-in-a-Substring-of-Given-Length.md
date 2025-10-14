@@ -4,9 +4,9 @@
 
 Tags: [[Array & String]]
 
-TC: 
+TC: O(n)
 
-SC:
+SC: O(1)
 
 ## Code Solution: 
 
@@ -36,4 +36,4 @@ class Solution:
 ```
 
 ## Notes:
-- 
+- use a set for constant lookup time
