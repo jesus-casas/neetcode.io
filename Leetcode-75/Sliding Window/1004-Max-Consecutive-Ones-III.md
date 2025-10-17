@@ -4,7 +4,9 @@
 
 Tags: [[Sliding Window]] - [[Look Back]]
 
-TC: 
+TC: O(N)
+
+SC: O(1)
 ## Code Solution: 
 
 ```python
