@@ -1,11 +1,11 @@
 # My Neetcode.io & Leetcode 75 Solutions
 
-These are the solutions that I found to be more intuitive and should have at least a time complexity of O(n), and all solutions include a working Python 3 implementation. I am currently working on adding JavaScript and C++ solutions as well.
+These solutions are the ones I found most intuitive and should have the time complexity of O(n) for each solution. All solutions will include a working Python 3 implementation. I am currently working on adding JavaScript and C++ solutions as well.
 
-## Follow along by using my template.md file and Obsidian
+## Follow along using template.md and Obsidian
 
 ### Example Problem:
-334-Increasing-Triplet-Subsequence
+334 Increasing Triplet Subsequence
 
 2025-08-26
 
