@@ -1,8 +1,11 @@
 # 215-Shopping-Cart-Discount-Calculator
 
 2025-08-03
-[Leetcode Link]()
+
+[Leetcode Link](https://leetcode.com/problems/shopping-cart-discount-calculator/)
+
 Tags: [[Array & String]]
+
 TC: O(n)
 ## Code Solution: 
 
