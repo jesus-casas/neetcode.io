@@ -4,13 +4,24 @@
 
 Tags: [[Hash Map & Set]]
 
-TC: 
+TC: O(n)
 
-SC:
+SC: O(n)
 
 ## Code Solution: 
 
 ```python
+class Solution:
+    def uniqueOccurrences(self, arr: List[int]) -> bool:
+
+        freq = {}
+        for num in arr:
+            freq[num] = freq.get(num, 0) + 1
+        
+        # Check if all frequency values are unique
+        freq_set = set(freq.values())
+        
+        return len(freq) == len(freq_set)
 
 ```
 
