@@ -1,6 +1,6 @@
 2025-09-02
 
-[Leetcode Link]()
+[Leetcode Link]( )
 
 Tags: [[]]
 
@@ -8,7 +8,7 @@ TC:
 ## Code Solution: 
 
 ```python
-print("Hello World")
+
 ```
 
 ## Notes:
