@@ -1,10 +1,9 @@
-2025-09-02
+2025-12-12
 
 [Leetcode Link](https://leetcode.com/problems/recyclable-and-low-fat-products/description/?envType=study-plan-v2&envId=top-sql-50)
 
-Tags: [[SQL]] - 
+Tags: [[SQL]]
 
-TC: 
 ## Code Solution: 
 
 ```sql
