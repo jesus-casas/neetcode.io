@@ -2,7 +2,7 @@
 
 [Leetcode Link](https://leetcode.com/problems/students-and-examinations/description/?envType=study-plan-v2&envId=top-sql-50)
 
-Tags: [[MySQL]]
+Tags: [[MySQL]] - [[Look Back]]
 
 TC: 
 ## Code Solution: 
