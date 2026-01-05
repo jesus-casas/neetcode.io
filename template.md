@@ -1,10 +1,12 @@
-2025-09-02
+2026-01-01
 
 [Leetcode Link]( )
 
 Tags: [[]]
 
 TC: 
+
+SC:
 ## Code Solution: 
 
 ```python
