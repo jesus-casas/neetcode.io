@@ -1,4 +1,4 @@
-# My Neetcode.io & Leetcode 75 Solutions
+# My Neetcode.io, Leetcode 75, and SQL 50 Solutions
 
 These solutions are the ones I found most intuitive and should have the time complexity of O(n) for each solution. All solutions will include a working Python 3 implementation. I am currently working on adding JavaScript and C++ solutions as well.
 
