@@ -16,4 +16,6 @@ GROUP BY user_id;
 ```
 
 ## Notes:
-- 
+- Use if(c.action="confirmed",1,0) to turn confirmed into 1 or 0
+- We need to use round() and avg() here to obtain the confirmation rate
+- GROUP BY puts all rows with the same user_id into one bucket for the calculations
