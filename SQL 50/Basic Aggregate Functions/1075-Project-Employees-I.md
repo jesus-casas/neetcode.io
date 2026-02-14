@@ -1,0 +1,25 @@
+2026-01-01
+
+[Leetcode Link]( )
+
+Tags: [[SQL]]
+
+TC: 
+## Code Solution: 
+
+```sql
+SELECT
+    p.project_id,
+    ROUND(AVG(e.experience_years), 2) AS average_years
+FROM
+    Project AS p
+LEFT JOIN
+    Employee AS e
+ON
+    p.employee_id = e.employee_id
+GROUP BY
+    p.project_id;
+```
+
+## Notes:
+- 
