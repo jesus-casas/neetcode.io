@@ -1,6 +1,6 @@
 2026-02-12 
 
-[Leetcode Link]( )
+[Leetcode Link](https://leetcode.com/problems/average-selling-price/?envType=study-plan-v2&envId=top-sql-50)
 
 Tags: [[SQL]]
 
